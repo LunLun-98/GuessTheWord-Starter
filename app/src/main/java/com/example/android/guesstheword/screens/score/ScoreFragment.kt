@@ -29,9 +29,11 @@ import com.example.android.guesstheword.databinding.ScoreFragmentBinding
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 
+//here!
 /**
  * Fragment where the final score is shown, after the game is over
  */
+
 class ScoreFragment : Fragment() {
 
     private lateinit var viewModel: ScoreViewModel
